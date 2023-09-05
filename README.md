@@ -5,57 +5,61 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 ## \uc0\u1055 \u1088 \u1080 \u1084 \u1077 \u1088 \u1099  \u1085 \u1072 \u1087 \u1080 \u1089 \u1072 \u1085 \u1080 \u1103  \u1082 \u1086 \u1076 \u1072  \u1080  ML \u1084 \u1086 \u1076 \u1077 \u1083 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103 \
+\f0\fs24 \cf0 ## Examples of coding and ML modeling\
 \
-\uc0\u1056 \u1077 \u1087 \u1086 \u1079 \u1080 \u1090 \u1086 \u1088 \u1080 \u1081  \u1089 \u1086 \u1076 \u1077 \u1088 \u1078 \u1080 \u1090  \u1087 \u1088 \u1080 \u1084 \u1077 \u1088 \u1099  \u1084 \u1086 \u1080 \u1093  \u1088 \u1072 \u1073 \u1086 \u1090  \u1076 \u1083 \u1103  \u1076 \u1077 \u1084 \u1086 \u1085 \u1089 \u1090 \u1088 \u1072 \u1094 \u1080 \u1080  \u1085 \u1072 \u1074 \u1099 \u1082 \u1086 \u1074  \u1085 \u1072 \u1087 \u1080 \u1089 \u1072 \u1085 \u1080 \u1103  \u1080  \u1086 \u1092 \u1086 \u1088 \u1084 \u1083 \u1077 \u1085 \u1080 \u1103  \u1082 \u1086 \u1076 \u1072  \u1085 \u1072  Python, \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084 \u1080 , \u1087 \u1088 \u1080 \u1084 \u1077 \u1085 \u1077 \u1085 \u1080 \u1103  \u1084 \u1077 \u1090 \u1086 \u1076 \u1086 \u1074  ML.\
+This repository contains examples of my work to demonstrate the skills of writing and formatting Python code, working with data, and applying ML methods.\
 ___\
-#### \uc0\u1055 \u1088 \u1086 \u1077 \u1082 \u1090  1: _poly4.ipynb_ - \u1084 \u1072 \u1088 \u1090  2022\
-_\uc0\u1059 \u1095 \u1077 \u1073 \u1085 \u1099 \u1081  \u1087 \u1088 \u1086 \u1077 \u1082 \u1090 , Kaggle, \u1056 \u1077 \u1075 \u1088 \u1077 \u1089 \u1089 \u1080 \u1103 , Jupyter_\
-\uc0\u1055 \u1088 \u1080 \u1084 \u1077 \u1085 \u1077 \u1085 \u1099  _Custom transformers, Pipelines, DataFrameMapper, ElasticNet, Polynomial Features_.\
+#### Project 01: _poly4.ipynb_ - March 2022\
+_Master's Degree study project, Kaggle, Regression, Jupyter Notebook_\
+Employed _Custom transformers, Pipelines, DataFrameMapper, ElasticNet, Polynomial Features_.\
 \
-\uc0\u1056 \u1077 \u1096 \u1077 \u1085 \u1080 \u1077  \u1079 \u1072 \u1076 \u1072 \u1095 \u1080  \u1087 \u1088 \u1077 \u1076 \u1089 \u1082 \u1072 \u1079 \u1072 \u1085 \u1080 \u1103  \u1089 \u1090 \u1086 \u1080 \u1084 \u1086 \u1089 \u1090 \u1080  \u1073 /\u1091  \u1072 \u1074 \u1090 \u1086 \u1084 \u1086 \u1073 \u1080 \u1083 \u1103  \u1087 \u1086  \u1077 \u1075 \u1086  \u1093 \u1072 \u1088 \u1072 \u1082 \u1090 \u1077 \u1088 \u1080 \u1089 \u1090 \u1080 \u1082 \u1072 \u1084 . \u1052 \u1077 \u1090 \u1088 \u1080 \u1082 \u1072  RMSE. \u1047 \u1072 \u1076 \u1072 \u1085 \u1080 \u1077  \u1074  \u1092 \u1086 \u1088 \u1084 \u1072 \u1090 \u1077  [\u1079 \u1072 \u1082 \u1088 \u1099 \u1090 \u1086 \u1075 \u1086  \u1089 \u1086 \u1088 \u1077 \u1074 \u1085 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103  \u1085 \u1072  Kaggle] \u1085 \u1072  \u1086 \u1089 \u1085 \u1086 \u1074 \u1077  [\u1101 \u1090 \u1086 \u1075 \u1086  Kaggle \u1076 \u1072 \u1090 \u1072 \u1089 \u1077 \u1090 \u1072 ]. \
-\uc0\u1055 \u1077 \u1088 \u1074 \u1086 \u1077  \u1084 \u1077 \u1089 \u1090 \u1086  \u1089 \u1088 \u1077 \u1076 \u1080  \u1089 \u1090 \u1091 \u1076 \u1077 \u1085 \u1090 \u1086 \u1074  \u1082 \u1091 \u1088 \u1089 \u1072 .\
+Solving the problem of predicting the price of a used car by its parameters. \
+Evaluation metric - RMSE. \
+The task was held as a [private Kaggle competition] based on [this Kaggle dataset].\
+First place among the students of the course.\
 ---\
-#### \uc0\u1055 \u1088 \u1086 \u1077 \u1082 \u1090  2: _[final_price_predictor]_ - \u1072 \u1087 \u1088 \u1077 \u1083 \u1100 -\u1084 \u1072 \u1081  2022\
-_\uc0\u1059 \u1095 \u1077 \u1073 \u1085 \u1099 \u1081  \u1087 \u1088 \u1086 \u1077 \u1082 \u1090 , \u1056 \u1077 \u1075 \u1088 \u1077 \u1089 \u1089 \u1080 \u1103 , PyCharm, Docker_\
-\uc0\u1055 \u1088 \u1080 \u1084 \u1077 \u1085 \u1077 \u1085 \u1099  _Flask, CatBoost_\
+#### Project 02: _[final_price_predictor]_ - Apr-May 2022\
+_Master's Degree study project, Regression, PyCharm, Docker_\
+Employed _Flask, CatBoost_\
 \
-End-to-End ML \uc0\u1087 \u1088 \u1086 \u1077 \u1082 \u1090  \u1076 \u1083 \u1103  \u1091 \u1095 \u1105 \u1073 \u1099 : web-\u1089 \u1077 \u1088 \u1074 \u1080 \u1089  \u1087 \u1088 \u1077 \u1076 \u1089 \u1082 \u1072 \u1079 \u1072 \u1085 \u1080 \u1103  \u1089 \u1090 \u1086 \u1080 \u1084 \u1086 \u1089 \u1090 \u1080  \u1082 \u1074 \u1072 \u1088 \u1090 \u1080 \u1088 \u1099  \u1087 \u1086  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084  \u1089 \u1077 \u1088 \u1074 \u1080 \u1089 \u1072  \u1071 \u1085 \u1076 \u1077 \u1082 \u1089 .\u1053 \u1077 \u1076 \u1074 \u1080 \u1078 \u1080 \u1084 \u1086 \u1089 \u1090 \u1100 . \
-\uc0\u1060 \u1086 \u1082 \u1091 \u1089  \u1085 \u1072  \u1087 \u1086 \u1083 \u1085 \u1099 \u1081  \u1094 \u1080 \u1082 \u1083  \u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1072  \u1086 \u1090  \u1087 \u1086 \u1089 \u1090 \u1072 \u1085 \u1086 \u1074 \u1082 \u1080  \u1079 \u1072 \u1076 \u1072 \u1095 \u1080  \u1076 \u1086  \u1074 \u1085 \u1077 \u1076 \u1088 \u1077 \u1085 \u1080 \u1103 . \
-\uc0\u1041 \u1086 \u1083 \u1100 \u1096 \u1077  \u1087 \u1088 \u1072 \u1082 \u1090 \u1080 \u1082 \u1080  \u1089  Git, Docker \u1082 \u1086 \u1085 \u1090 \u1077 \u1081 \u1085 \u1077 \u1088 \u1072 \u1084 \u1080 , deployment'\u1086 \u1084  \u1088 \u1077 \u1096 \u1077 \u1085 \u1080 \u1103 .\
+End-to-End ML study project: web-service predicting cost of an apartment based on Yandex.Realty data. \
+Focus on the full cycle of the project from setting the task to deploying the solution.\
+More practice with Git, Docker containers, Python scripts. \
 \
-\uc0\u1055 \u1086  \u1089 \u1089 \u1099 \u1083 \u1082 \u1077  _[final_price_predictor]_ - \u1086 \u1090 \u1076 \u1077 \u1083 \u1100 \u1085 \u1099 \u1081  \u1088 \u1077 \u1087 \u1086 \u1079 \u1080 \u1090 \u1086 \u1088 \u1080 \u1081  \u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1072  \u1085 \u1072  GitHub (README, \u1089 \u1089 \u1099 \u1083 \u1082 \u1072  \u1085 \u1072  docker hub, \u1073 \u1086 \u1083 \u1100 \u1096 \u1077  \u1076 \u1077 \u1090 \u1072 \u1083 \u1077 \u1081  \u1080  \u1080 \u1085 \u1089 \u1090 \u1088 \u1091 \u1082 \u1094 \u1080 \u1080  \u1087 \u1086  \u1079 \u1072 \u1087 \u1091 \u1089 \u1082 \u1091  \u1087 \u1088 \u1080 \u1083 \u1086 \u1078 \u1077 \u1085 \u1080 \u1103 )\
+> __[final_price_predictor]__ - a separate repository of the project on GitHub: \
+README, link to docker hub, more details and instructions for launching the app\
 \
 ---\
-#### \uc0\u1055 \u1088 \u1086 \u1077 \u1082 \u1090  3: *salary_by_skill* - \u1085 \u1086 \u1103 \u1073 \u1088 \u1100 -\u1076 \u1077 \u1082 \u1072 \u1073 \u1088 \u1100  2022\
-_\uc0\u1059 \u1095 \u1077 \u1073 \u1085 \u1086 -\u1087 \u1088 \u1080 \u1082 \u1083 \u1072 \u1076 \u1085 \u1086 \u1081  \u1087 \u1088 \u1086 \u1077 \u1082 \u1090 , NLP, text vectorization, \u1056 \u1077 \u1075 \u1088 \u1077 \u1089 \u1089 \u1080 \u1103 , Web-scraping, Jupyter_\
-\uc0\u1055 \u1088 \u1080 \u1084 \u1077 \u1085 \u1077 \u1085 \u1099  _Selenium, ScikitLearn, Catboost, KNN Regressor, GloVe, TF-IDF, word2wec_\
-##### **\uc0\u1055 \u1088 \u1086 \u1077 \u1082 \u1090  \u1087 \u1088 \u1077 \u1076 \u1089 \u1090 \u1072 \u1074 \u1083 \u1077 \u1085  \u1074  [\u1089 \u1083 \u1072 \u1081 \u1076 \u1072 \u1093 ]**:\
-\uc0\u1074 \u1080 \u1079 \u1091 \u1072 \u1083 \u1080 \u1079 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1099  EDA \u1080  \u1089 \u1088 \u1072 \u1074 \u1085 \u1077 \u1085 \u1080 \u1077  \u1084 \u1086 \u1076 \u1077 \u1083 \u1077 \u1081 , \u1073 \u1086 \u1083 \u1100 \u1096 \u1077  \u1087 \u1086 \u1076 \u1088 \u1086 \u1073 \u1085 \u1086 \u1089 \u1090 \u1077 \u1081  \u1086 \u1073  \u1080 \u1089 \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1085 \u1085 \u1099 \u1093  \u1087 \u1086 \u1076 \u1093 \u1086 \u1076 \u1072 \u1093 \
+#### Project 03: *salary_by_skill* - Nov-Dec 2022\
+_Applied project, NLP, text vectorization, Regression, Web-scraping, Jupyter_\
+Employed *Selenium, ScikitLearn, Catboost, KNN Regressor, GloVe, TF-IDF, word2wec*\
 \
-\uc0\u1055 \u1077 \u1088 \u1074 \u1099 \u1081  \u1096 \u1072 \u1075  \u1073 \u1086 \u1083 \u1077 \u1077  \u1082 \u1088 \u1091 \u1087 \u1085 \u1086 \u1075 \u1086  \u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1072  \u1087 \u1086  \u1089 \u1086 \u1079 \u1076 \u1072 \u1085 \u1080 \u1102  \u1088 \u1077 \u1082 \u1086 \u1084 \u1077 \u1085 \u1076 \u1072 \u1090 \u1077 \u1083 \u1100 \u1085 \u1086 \u1081  \u1089 \u1080 \u1089 \u1090 \u1077 \u1084 \u1099  \u1085 \u1072 \u1074 \u1099 \u1082 \u1086 \u1074  \u1076 \u1083 \u1103  \u1080 \u1079 \u1091 \u1095 \u1077 \u1085 \u1080 \u1103  \u1089 \u1086 \u1080 \u1089 \u1082 \u1072 \u1090 \u1077 \u1083 \u1103 \u1084 \u1080  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1074  \u1089 \u1092 \u1077 \u1088 \u1077  AI/ML. \u1055 \u1086  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084  \u1074 \u1072 \u1082 \u1072 \u1085 \u1089 \u1080 \u1081  \u1089 \u1086  \u1089 \u1087 \u1077 \u1094 \u1080 \u1072 \u1083 \u1080 \u1079 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1085 \u1086 \u1075 \u1086  [job board]`\u1072  \u1087 \u1088 \u1086 \u1074 \u1077 \u1076 \u1077 \u1085  \u1072 \u1085 \u1072 \u1083 \u1080 \u1079  \u1088 \u1099 \u1085 \u1082 \u1072  \u1074 \u1072 \u1082 \u1072 \u1085 \u1089 \u1080 \u1081  \u1074  \u1089 \u1077 \u1075 \u1084 \u1077 \u1085 \u1090 \u1077  \u1080  \u1089 \u1086 \u1079 \u1076 \u1072 \u1085 \u1072  \u1088 \u1077 \u1075 \u1088 \u1077 \u1089 \u1089 \u1080 \u1086 \u1085 \u1085 \u1072 \u1103  \u1084 \u1086 \u1076 \u1077 \u1083 \u1100 , \u1087 \u1088 \u1077 \u1076 \u1089 \u1082 \u1072 \u1079 \u1099 \u1074 \u1072 \u1102 \u1097 \u1072 \u1103  \u1084 \u1080 \u1085 \u1080 \u1084 \u1072 \u1083 \u1100 \u1085 \u1091 \u1102  \u1079 \u1072 \u1088 \u1072 \u1073 \u1086 \u1090 \u1085 \u1091 \u1102  \u1087 \u1083 \u1072 \u1090 \u1091  \u1087 \u1086  \u1086 \u1087 \u1080 \u1089 \u1072 \u1085 \u1080 \u1102  \u1074 \u1072 \u1082 \u1072 \u1085 \u1089 \u1080 \u1081 . \u1054 \u1089 \u1085 \u1086 \u1074 \u1085 \u1072 \u1103  \u1084 \u1077 \u1090 \u1088 \u1080 \u1082 \u1072  - MAPE.\
-\uc0\u1047 \u1072  \u1076 \u1074 \u1077  \u1085 \u1077 \u1076 \u1077 \u1083 \u1080  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1085 \u1072 \u1076  \u1088 \u1077 \u1075 \u1088 \u1077 \u1089 \u1089 \u1080 \u1086 \u1085 \u1085 \u1086 \u1081  \u1084 \u1086 \u1076 \u1077 \u1083 \u1100 \u1102  \u1091 \u1076 \u1072 \u1083 \u1086 \u1089 \u1100  \u1089 \u1085 \u1080 \u1079 \u1080 \u1090 \u1100  MAPE \u1073 \u1086 \u1083 \u1077 \u1077  \u1095 \u1077 \u1084  \u1074  4 \u1088 \u1072 \u1079 \u1072 .\
+> **Project is documented in [slides]**:\
+visualized EDA, model comparison by metrics, more details about ML approaches used\
 \
-\uc0\u1056 \u1077 \u1087 \u1086 \u1079 \u1080 \u1090 \u1086 \u1088 \u1080 \u1081  \u1089 \u1086 \u1076 \u1077 \u1088 \u1078 \u1080 \u1090  \u1095 \u1072 \u1089 \u1090 \u1100  \u1092 \u1072 \u1081 \u1083 \u1086 \u1074  \u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1072 :\
-- *FinalPreprocessing.ipynb* - \uc0\u1080 \u1079 \u1073 \u1088 \u1072 \u1085 \u1085 \u1072 \u1103  \u1087 \u1086 \u1089 \u1083 \u1077 \u1076 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100 \u1085 \u1086 \u1089 \u1090 \u1100  \u1087 \u1088 \u1077 \u1076 \u1086 \u1073 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  \u1076 \u1072 \u1085 \u1085 \u1099 \u1093 \
-- *full_dataset.csv* - \uc0\u1087 \u1086 \u1083 \u1085 \u1099 \u1081  \u1084 \u1072 \u1089 \u1089 \u1080 \u1074  \u1076 \u1072 \u1085 \u1085 \u1099 \u1093  (\u1087 \u1086 \u1089 \u1083 \u1077  \u1089 \u1082 \u1088 \u1077 \u1081 \u1087 \u1080 \u1085 \u1075 \u1072 , \u1076 \u1086  \u1086 \u1073 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080 )\
-- *modeling_dataset.csv* - \uc0\u1087 \u1088 \u1077 \u1076 \u1086 \u1073 \u1088 \u1072 \u1073 \u1086 \u1090 \u1072 \u1085 \u1085 \u1099 \u1081  \u1076 \u1072 \u1090 \u1072 \u1089 \u1077 \u1090 , \u1080 \u1089 \u1087 \u1086 \u1083 \u1100 \u1086 \u1074 \u1072 \u1074 \u1096 \u1080 \u1081 \u1089 \u1103  \u1082  \u1082 \u1086 \u1085 \u1094 \u1091  \u1084 \u1086 \u1076 \u1077 \u1083 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103 \
-- *FinalModeling.ipynb* - \uc0\u1089 \u1086 \u1079 \u1076 \u1072 \u1085 \u1080 \u1077  \u1080 \u1090 \u1086 \u1075 \u1086 \u1074 \u1086 \u1081  \u1084 \u1086 \u1076 \u1077 \u1083 \u1080  *cb_final.pkl*\
-- *preprocessor.pkl* - \uc0\u1080 \u1090 \u1086 \u1075 \u1086 \u1074 \u1099 \u1081  \u1090 \u1088 \u1072 \u1085 \u1089 \u1092 \u1086 \u1088 \u1084 \u1077 \u1088  \u1076 \u1072 \u1085 \u1085 \u1099 \u1093 , \u1080 \u1089 \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1074 \u1096 \u1080 \u1081 \u1089 \u1103  \u1076 \u1083 \u1103  \u1084 \u1086 \u1076 \u1077 \u1083 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103 .\
+The first step of a larger project to create a recommendation system of skills for job seekers to study in the field of AI/ML. After scraping job postings from the a relevant [job board], I carried out EDA and tried to create a regression model with min.salary for listing as target variable. Using the best model I filled in salary where it was missing, and retrained this best model of the full dataset.\
+During 2 weeks of work on the regression model, I managed to reduce MAPE by more than 4 times. Lots of effort was put to working with text of job description: cleaning, translation, text vectorization; also worked lots with skill tags as a binary matrix. \
+\
+The repository contains part of project files for demonstration:\
+- *FinalPreprocessing.ipynb* - chosen preprocessing methodology\
+- *full_dataset.csv* - full data array (after scraping, before processing)\
+- *modeling_dataset.csv* - preprocessed dataset used by at the final stages of modeling\
+- *FinalModeling.ipynb* - creation of final model *cb_final.pkl*\
+- *preprocessor.pkl* - the final data transformer used for modeling at later stages\
 \
 ![preprocessor](/images/preprocessor.png) \
-\uc0\u1057 \u1086 \u1076 \u1077 \u1088 \u1078 \u1080 \u1084 \u1086 \u1077  \u1087 \u1088 \u1077 \u1086 \u1073 \u1088 \u1072 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1103  \u1076 \u1072 \u1085 \u1085 \u1099 \u1093  preprocessor.pkl\
+Structure of the final preprocessing transformer \
 \
 \
 ---\
 ### Footnotes\
 \
 ![first_entry](/images/first_entry.png) \
-**\uc0\u1055 \u1088 \u1086 \u1077 \u1082 \u1090  1** - \u1087 \u1077 \u1088 \u1074 \u1099 \u1081  \u1086 \u1087 \u1099 \u1090  \u1085 \u1072  Kaggle. \
-\uc0\u1055 \u1077 \u1088 \u1074 \u1099 \u1081  entry \u1087 \u1086 \u1073 \u1080 \u1083  \u1086 \u1073 \u1072  \u1073 \u1077 \u1081 \u1079 \u1083 \u1072 \u1081 \u1085 \u1072 , \u1091 \u1089 \u1090 \u1072 \u1085 \u1086 \u1074 \u1083 \u1077 \u1085 \u1085 \u1099 \u1077  \u1087 \u1088 \u1077 \u1087 \u1086 \u1076 \u1072 \u1074 \u1072 \u1090 \u1077 \u1083 \u1077 \u1084 .\
+**Project 01** - first experience on Kaggle. \
+The first entry beat both baselines set by the course instructor.\
 \
 ![jobboard](/images/jobboard.png) \
-\uc0\u1048 \u1089 \u1090 \u1086 \u1095 \u1085 \u1080 \u1082  \u1076 \u1072 \u1085 \u1085 \u1099 \u1093  \u1086  \u1074 \u1072 \u1082 \u1072 \u1085 \u1089 \u1080 \u1103 \u1093  **\u1055 \u1088 \u1086 \u1077 \u1082 \u1090 \u1072  3** \
+Job postings' source used for **Project 3** \
 \
 \
 \
@@ -67,7 +71,7 @@ _\uc0\u1059 \u1095 \u1077 \u1073 \u1085 \u1086 -\u1087 \u1088 \u1080 \u1082 \u10
 \
 \
    [final_price_predictor]: <https://github.com/lisapavlova/final_price_predictor>\
-   [\uc0\u1079 \u1072 \u1082 \u1088 \u1099 \u1090 \u1086 \u1075 \u1086  \u1089 \u1086 \u1088 \u1077 \u1074 \u1085 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103  \u1085 \u1072  Kaggle]: <https://www.kaggle.com/competitions/gsom-22sm1-mlbda-ht1>\
-   [\uc0\u1101 \u1090 \u1086 \u1075 \u1086  Kaggle \u1076 \u1072 \u1090 \u1072 \u1089 \u1077 \u1090 \u1072 ]: <https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes>\
+   [private Kaggle competition]: <https://www.kaggle.com/competitions/gsom-22sm1-mlbda-ht1>\
+   [this Kaggle dataset]: <https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes>\
    [job board]: <https://ai-jobs.net>\
-   [\uc0\u1089 \u1083 \u1072 \u1081 \u1076 \u1072 \u1093 ]: <https://drive.google.com/file/d/1a7PYm2io8FFlqMEsmokq2LYuCOj18WCy/view?usp=share_link>}
+   [slides]: <https://drive.google.com/file/d/1a7PYm2io8FFlqMEsmokq2LYuCOj18WCy/view?usp=share_link>}
